@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=1F4E79&width=600&height=44&lines=Image+to+CAD+%F0%9F%93%90;Image+%E2%86%92+SVG+%E2%86%92+DXF+%E2%86%92+Any+CAD;No+installs.+Just+free+tools.)](https://github.com/KayanShah/ImageToOnshape)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=1F4E79&width=600&height=44&lines=Image+to+CAD;Image+%E2%86%92+SVG+%E2%86%92+DXF+%E2%86%92+Any+CAD;No+installs.+Just+free+tools.)](https://github.com/KayanShah/ImageToOnshape)
 
 A step-by-step guide to converting an image into a DXF sketch compatible with any CAD software — including Onshape, Fusion 360, SolidWorks, AutoCAD, and FreeCAD. Uses free online tools, no installs required.
 
